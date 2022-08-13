@@ -610,16 +610,16 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 ◦ Script ori : https://github.com/DikaArdnt/ALYA-Morou
 
 Jangan lupa kasih bintang.
-◦ Donate : 628125284895 (Dana / gopay)
-◦ Saweria : https://saweria.co/Nando35
-◦ Paypal : https://www.paypal.me/Rifando35
+◦ Donate : 6285760165634 (Dana / gopay)
+◦ Saweria : https://saweria.co/vanzzxy
+◦ Paypal : https://www.paypal.me/diblockkominfo
 
 Dont Forget Donate
 `
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/vnzzm_31'
                                 }
                             }]
                         ALYA.send5ButImg(m.chat, anu, botname, global.sc, btn)
@@ -644,7 +644,7 @@ Alya
 	                let btn = [{
                                 urlButton: {
                                     displayText: 'Instagram',
-                                    url: 'https://instagram.com/naando.jpeg'
+                                    url: 'https://instagram.com/vnzzm_31'
                                 }
                             }]
                         ALYA.send5ButImg(m.chat, anu, botname, global.tq, btn)
